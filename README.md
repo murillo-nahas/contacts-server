@@ -1,21 +1,25 @@
-### Estudos de Node.js
-Este repositório contém os meus projetos de estudo de Node com Express referentes ao curso JStack.
+## 📲 My contacts server
 
-### Pré-requisitos
-Para executar os projetos, é necessário ter o Node.js instalado na sua máquina. Para instalar o Node.js, visite o site oficial nodejs.org.
+API to create, read, update and delete contacts.
 
-#### Como executar os projetos
+## Getting started
 
-Clone este repositório na sua máquina:
-> git clone https://github.com/murillo-nahas/node-express-jstack <br>
+- Git clone on this repository (*HTTPS*): <br/>
+> git clone [https://github.com/murillo-nahas/contacts-server.git](https://github.com/murillo-nahas/contacts-server.git)
 
-Navegue até o diretório do projeto que deseja executar:
-> cd node-studies/nome-do-projeto
+- Install all the dependencies: <br/>
+> npm install or yarn add
 
-Instale as dependências do projeto:
-> npm install
+- Running: <br/>
+> npm run dev or npm start
 
-Inicie o servidor de desenvolvimento:
-> npm start
+## Stack
 
-Abra o seu navegador e acesse http://localhost:3000.
+- [x] Node.js;
+- [x] JavaScript;
+- [x] Express;
+- [x] PostgreSql 
+
+## Contributing
+
+Feel free to contribute to this project by opening issues or pull requests.
